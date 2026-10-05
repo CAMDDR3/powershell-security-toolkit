@@ -1,0 +1,10 @@
+# Generated security audit reports
+Reports/
+*.txt
+
+# PowerShell temporary files
+*.tmp
+
+# Windows files
+Thumbs.db
+Desktop.ini
